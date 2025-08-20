@@ -9,30 +9,4 @@ Lane coloration has become popular in real time vehicular ad-hoc networks (VANET
 It is developed thorugh OpenCV (Deep Learning) 
 Programming : Python
 
-![lane](https://user-images.githubusercontent.com/28294942/137758174-63d7c31d-b9f9-4c95-8295-559cf0ab2593.jpeg)
-
-
-I have Updated Code for Indian Roads(Rural) Detection System. If you want then mail [vatshayan007@gmail.com] me 
-
-Note : Just download Code and run on your IDE 
-
-## Hi there, 
-
-If you need PPT, Research Paper, Project Code and Report of this Project Mail me.
-
-If you need any help regarding College project contact me. #Free_Discussion
-
-### Contact me:
-
-WhatsApp: +91 9310631437 (Helping 24*7)
-
-Gmail: vatshayan007@gmail.com
-
- #Free_Discussion 
- 
- #open_source 
- 
- #free_explanation
- 
-### Advance Road Pavement Project Youtube Video : https://www.youtube.com/watch?v=BEUFt6_UjYM
 
